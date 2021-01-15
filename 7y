@@ -1,15 +1,12 @@
 #EXTM3U
 #EXTINF:1  , T SPORTS
-http://45.127.244.7:8080/hls/channel2.m3u8
+http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTM3U
 #EXTINF:1  , SONY SIX
-http://45.127.244.7:8080/hls/channel3.m3u8
+http://otv.ftpbd.net/streams/106/index.m3u8
 #EXTM3U
 #EXTINF:1  , STAR SPORTS 1
-http://45.127.244.7:8080/hls/channel7.m3u8
+http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTM3U
 #EXTINF:1  , SONY LIV
-https://sonydai.akamaized.net/hls/live/2022319/DAI15ME/master.m3u8?hdnea=exp=1610655704~acl=/*~id=2101140759167701416~hmac=eeed5e8da530d22fe50aa73ff64206ae0038de6d400d7adfcb57542d2eff48d2
-#EXTM3U
-#EXTINF:1  ,  SONY LIV 1
-https://sonydai.akamaized.net/hls/live/2005444/DAI8ME/master.m3u8?hdnea=exp=1610642641~acl=/*~id=190327121978844931~hmac=6b80b1353900ab3ace53068af55e468af9b576ad1f347293f30ab2683f76ec8c
+https://sonydai.akamaized.net/hls/live/2022316/DAI12ME/master.m3u8?hdnea=exp=1610713876~acl=/*~id=2012060921157707995~hmac=16e7068d26fbca4a29ef8efc904d205cef92bfa75bc1437c02d13b516e0c649b
