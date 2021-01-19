@@ -10,4 +10,5 @@ http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTM3U
 #EXTINF:1  , SONY LIV
 
-https://sonydai.akamaized.net/hls/live/2022320/DAI16ME/master.m3u8?hdnea=exp=1610914314~acl=/*~id=19991768283680423789316943723474~hmac=e1706f2ed29644c597228d00d0ae0884a2d17b04f564222e435fda951c1f9372
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/usug5B6lW_wZw4gKwPdoevzp1iPSbvA9qyf1JaE2ltQv3nZsEO12DUUr2A-iULz-1QGOmc2ea6sHBGdoUuXnDw/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_hlsproducer.m3u8?type=live
+
