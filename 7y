@@ -3,8 +3,8 @@
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 #EXTM3U
 #EXTINF:1  , T SPORTS AKASH SERVER
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611159444/ei/NAMIYM7mKcOU8QPHn6_gBg/ip/118.179.106.65/id/LjXVWFBXLI8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANFPKHu-al9Sm_wqs7nH6DdnAEUNFb-0ZROXFHDJm2RjAiAkOkECq5GAYUtEMSjBXfm9s_15-kfksEC1ktBkAFwCFQ%3D%3D/file/index.m3u8
 #EXTM3U
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611159444/ei/NAMIYM7mKcOU8QPHn6_gBg/ip/118.179.106.65/id/LjXVWFBXLI8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANFPKHu-al9Sm_wqs7nH6DdnAEUNFb-0ZROXFHDJm2RjAiAkOkECq5GAYUtEMSjBXfm9s_15-kfksEC1ktBkAFwCFQ%3D%3D/file/index.m3u8
 #EXTINF:1  , STAR SPORTS 1
 http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTM3U
