@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1  , T SPORTS
-http://bdiptv.stream/live-tv/t-sports-hd.html
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 #EXTM3U
 #EXTINF:1  , SONY SIX
 http://otv.ftpbd.net/streams/106/index.m3u8
