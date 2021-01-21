@@ -9,5 +9,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611159444/ei/N
 http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTM3U
 #EXTINF:1  , SONY liv 1
+https://sonydai.akamaized.net/hls/live/2022320/DAI16ME/master.m3u8?hdnea=exp=1611262276~acl=/*~id=86256715540479973475796446690164~hmac=be6a94099cb9d5974421e9a881db8fde31fe5803b3eb29301cd2044064e24255
 
-https://sonydai.akamaized.net/hls/live/2022320/DAI16ME/master.m3u8?hdnea=exp=1611089986~acl=/*~id=33758897847771105578498123540468~hmac=6fd9f88a335557689e84a0f4bdc055d625c34a3a51da98743975bb2301c83257
+
+
