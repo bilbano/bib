@@ -8,7 +8,8 @@ http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
 http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTM3U
 #EXTINF:1  , SONY liv 1
-https://sonydai.akamaized.net/hls/live/2022319/DAI15ME/master.m3u8?hdnea=exp=1611339140~acl=/*~id=64234091045141415227923294395106~hmac=54e0ec8bda8a9004cb36c489d81a17f3126dbb734a395a8c32ebab9edbdfed2d
+https://sonydai.akamaized.net/hls/live/2022320/DAI16ME/master.m3u8?hdnea=exp=1611346761~acl=/*~id=81792916003850998319500801192649~hmac=25947842c243f42a9ff6dc3f5330c3e901b14b4eba75cb0e14aa7dd1fee73a49
+
 
 
 
