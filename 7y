@@ -7,9 +7,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611317983/ei/f
 #EXTINF:1  , STAR SPORTS 1
 http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTM3U
-#EXTINF:1  , SONY liv 1
-https://sonydai.akamaized.net/hls/live/2022320/DAI16ME/master.m3u8?hdnea=exp=1611346761~acl=/*~id=81792916003850998319500801192649~hmac=25947842c243f42a9ff6dc3f5330c3e901b14b4eba75cb0e14aa7dd1fee73a49
-
+#EXTINF:1  , SONY liv 
+https://sonydai.akamaized.net/hls/live/2022320/DAI16ME/master.m3u8?hdnea=exp=1611519753~acl=/*~id=16125873517833132545576461295376~hmac=b7dc61369758f28f722ef13b7493b7d2fe1211361ce89fd8f39e49cae4e7abe6
 
 
 
