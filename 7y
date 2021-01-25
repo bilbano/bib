@@ -1,14 +1,3 @@
 #EXTM3U
-#EXTINF:1  , T SPORTS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611312648/ei/qFkKYKXjJLz64-EP0a6t-AE/ip/118.179.106.65/id/rCQW5a_7K5E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLft6AvEt_naSdSrZyUodfgrHoWj7ndV7Qtm_A_nN3cECIED1TTQXTetfpmVYOAcp_439ZcpiUv8jcxcNnVoQhdVX/file/index.m3u8
-#EXTM3U
-#EXTINF:1  , T SPORTS 1
+#EXTINF:1  , T 
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611576357/ei/xV8OYMyRC7KV8QOKuryICQ/ip/118.179.106.65/id/aLoVaWtLdCk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAL3utOFGVhYhkt0JIZVDKr8mrjBX_uP_q8siCRSzFjB8AiBW0XQQQ6nPOTH55uPsXv1S0wbQczRL9BbJRfLMW9X3oA%3D%3D/file/index.m3u8
-#EXTINF:1  , STAR SPORTS 1
-http://otv.ftpbd.net/streams/104/index.m3u8
-#EXTM3U
-#EXTINF:1  , SONY liv 
-https://sonydai.akamaized.net/hls/live/2022320/DAI16ME/master.m3u8?hdnea=exp=1611519753~acl=/*~id=16125873517833132545576461295376~hmac=b7dc61369758f28f722ef13b7493b7d2fe1211361ce89fd8f39e49cae4e7abe6
-
-
-
