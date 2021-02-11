@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1  , T j
-https://tinyurl.com/1l97picx
+https://sonydai.akamaized.net:443/hls/live/2005444/DAI8ME/hdntl=exp=1613133417~acl=%2f*~id=190831145095382694~data=hdntl~hmac=728c36f17f0d5dfd5f4f403fe320d0de3575a546f177c899167aad9d1286cad5/master_1848.m3u8
 #EXTM3U
 #EXTINF:1   , ghigg
 https://fancodealive1-a.akamaihd.net/5c3f1fd329164efe8bd8c36b901f207b/ap-south-1/6008340455001/profile_1/hdntl=exp=1613103653~acl=%2f*~data=hdntl~hmac=1b3e61e6a73565dbf1b87994fb0df45e725eb7c9f19e95ce524be821c69e4c75/chunklist_dvr.m3u8?hdnea=st=1613017253~exp=9007200867758244~acl=/5c3f1fd329164efe8bd8c36b901f207b/*/profile_1/chunklist_dvr.m3u8*~hmac=7e787bf67fce542776b208babe6163b957006a8e4f0028f489cd50075bb04ae6
