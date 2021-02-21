@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:1  , 10
-https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/DcU72EiQmh7giYKUumvVLDBJzTZoY-Gc3ky8gfVGU42L-Cs-C1jSnjzGW0FABnzvQmwDHXOqcQxF4_ZkI5tK8Q/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live
+#EXTINF:1  , 107
+https://sonydai.akamaized.net/hls/live/2005444/DAI8ME/master.m3u8?hdnea=exp=1613941217~acl=/*~id=08561320057558331123571528346175~hmac=f74e580d6cf2513223e496256f0e92649ba7e83634f452cf520d788e4da9ab27
 
