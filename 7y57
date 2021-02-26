@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:1  , 1077
-http://3.6.7.251/indvseng/index.m3u8
+https://sonydai.akamaized.net/hls/live/2005444/DAI8ME/master.m3u8?hdnea=exp=1614375399~acl=/*~id=190911170297838893~hmac=8186dc9844e36d0eadcbec900c9316f48f58eb2c8c2590dd0e3efca4c659a589&originpath=/linear/hls/pb/event/oVbzxnh5TEK_ssGRX5WZYw/stream/5d191c23-753c-473b-a7ee-9ed8c4fb863b:SIN/master.m3u8
 
