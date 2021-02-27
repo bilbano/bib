@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:1  , 1077
-https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/OUrPO5fhy-7STNkAvB6tJERnq7DCDSaoktg9J03dVnieVTPjO7wJVUl7UcI9NI3SLvlIrGdaswgbWEy0SH3dQg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live@live_cricketmatch
+https://sonydai.akamaized.net/hls/live/2022315/DAI11ME/master.m3u8?hdnea=st=1614419179~exp=1614419479~acl=*~id=77c53a5b-3c2a-43e5-87d7-4da8f51daff3~hmac=660d1dc3c47270adea9c4dacd22f7ec21cdc773d6cc54726d8c87619afbf7915
 
