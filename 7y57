@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:1  , 1077
-https://sonydai.akamaized.net/hls/live/2022315/DAI11ME/master.m3u8?hdnea=st=1614419179~exp=1614419479~acl=*~id=77c53a5b-3c2a-43e5-87d7-4da8f51daff3~hmac=660d1dc3c47270adea9c4dacd22f7ec21cdc773d6cc54726d8c87619afbf7915
+#EXTINF:1  , 1079
+https://sonydai.akamaized.net/hls/live/2022315/DAI11ME/master.m3u8?hdnea=exp=1614564954~acl=/*~id=41388591288780067793765278282414~hmac=e221768c3a2556b49e9ab98388eccc6a45daf62b3c3dcebb62461cf56c923c96
+
 
