@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1  , hi
-https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/SXeIr82epS9pvbhYpsmftRk-hMop5xL2N3PToKBpFsxkGtl6GZMT-mGSlTH3H3ktmAEYZzuL8itJmZpDT12o8A/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live@live_cricketmatch
+https://fancodealive1-a.akamaihd.net:443/558711fab7204226974c71534ccb8698/ap-south-1/6008340455001/profile_3/hdntl=exp=1616557000~acl=%2f*~data=hdntl~hmac=bb84dc5e7f8505fc5a4da853f144b9d4cd5deb87026c96dc5264750bca91a312/chunklist_dvr.m3u8?hdnea=st=1616470596~exp=9007200871211587~acl=/558711fab7204226974c71534ccb8698/*/profile_3/chunklist_dvr.m3u8*~hmac=374d390a53c35fa800ade8813b1d9ba55ddbe53ef8602b59d1e1e51be92feadd
 
 
 
